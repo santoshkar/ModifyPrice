@@ -4,7 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 
+ *
+ * This program returns the number of modified prices for one or more items.
  * 
  * @author Santosh_Kar
  *

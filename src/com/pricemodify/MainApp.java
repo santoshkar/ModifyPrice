@@ -2,6 +2,9 @@ package com.pricemodify;
 
 import java.util.Scanner;
 
+/*
+ * This is the main program which will take the input and call the verifyItems method from ModifyPrice application.
+ */
 public class MainApp {
 
 	public static void main(String[] args) {
